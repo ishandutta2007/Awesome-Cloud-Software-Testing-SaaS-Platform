@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform?style=flat-square&color=blue" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Software-Testing-SaaS-Platform?style=flat-square&color=green" alt="License" /></a>
@@ -72,7 +72,7 @@ The sector exhibits **moderate fragmentation** rather than winner-take-all dynam
 
 The following table catalogues top-tier open-source tools and infrastructure for building self-hosted, scalable testing clouds and automation pipelines, sorted in descending order by GitHub stargazers count:
 
-| Project | GitHub Stars | Description | Category / Stack |
+| Project | GitHub_Stars | Description | Category / Stack |
 |---|---|---|---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Fast, reliable cross-browser automation framework by Microsoft supporting Chromium, Firefox, and WebKit with a single unified API. Includes automatic waiting, network mocking, trace viewers, and parallel test sharding. | End-to-End Automation |
 | **[Puppeteer](https://github.com/puppeteer/puppeteer)** | [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) | Node.js library providing a high-level API over the Chrome DevTools Protocol (CDP) and WebDriver BiDi for Chromium and Firefox headless automation, PDF generation, and performance audits. | Headless Browser Automation |
@@ -107,7 +107,7 @@ Contributions are warmly welcomed! Help make this the most comprehensive and acc
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-platform`).
-3. 📝 **Add or edit entries** following the established markdown schema (include factual starting pricing, explicit free tier limits, company valuation/revenue, and GitHub star badges).
+3. 📝 **Add or edit entries** following the established markdown schema (include factual starting pricing, explicit free tier limits, company valuation/revenue, and GitHub Stars_Badges).
 4. ✅ **Ensure accuracy** and verify links point to official websites or GitHub repositories.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
